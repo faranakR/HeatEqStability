@@ -1,4 +1,4 @@
-# HeatEqStability
+#Analysis on Heat Equation Stability based on the Von-Neumann Stability Analysis
 The code which implements the Forward Euler method for the famous heat equation.
 The Algorithm first calculates the initial profile f(x) for a certain point on spatial
 domain as j∆x. Then, the temperature function will be updated as the time steps evolve,
